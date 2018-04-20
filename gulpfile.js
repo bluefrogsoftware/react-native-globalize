@@ -16,6 +16,7 @@ const locales = [
   'en',           // English (United States)
   'en-GB',        // English (Great Britain)
   'th',           // Thai
+  'id',           // Indonesian
 ];
 
 const currencies = [
@@ -24,6 +25,7 @@ const currencies = [
   'GBP',          // British Pound
   'USD',          // US Dollar
   'THB',          // Thai baht
+  'IDR',          // Indonesian Rupiah
 ];
 
 const files = ['ca-gregorian', 'currencies', 'dateFields', 'numbers', 'timeZoneNames'];
